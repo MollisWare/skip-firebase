@@ -1,0 +1,16 @@
+name: skip-firebase
+id: ari:cloud:compass:433f2c52-baf3-4040-bf96-3fd09bf998da:component/c10a88dc-15a4-484b-b7c7-f1c56f373c78/f6be1dca-8621-4e99-a8e3-d82d1bd6443d
+description: Firebase integration for Skip apps
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/MollisWare/skip-firebase
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
